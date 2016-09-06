@@ -12,6 +12,7 @@ int main()
 	cout << "enter name " << endl;
 	gets_s(name);
 	cout << "your name is " << name << endl; 
+	cout << "cool beans" << endl;
     return 0;
 }
 
